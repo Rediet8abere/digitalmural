@@ -1,0 +1,71 @@
+body, html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Trade Winds';
+  background-image: url("img/lorateafewerktekle.jpg");
+}
+
+.jumbotron {
+    padding: 5em inherit;
+    height: 650px;
+    background-image: url("img/facetoface.jpg");
+    background-position: center;
+    background-size: 95% 98%;
+}
+
+.animeA {
+  width: 500px;
+  height: 600px;
+  border: 5px solid #5edfff;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("img/beautifullady.jpg");
+  background-position: center;
+  background-size: 100% 99%;
+}
+
+.animeB {
+  position: relative;
+  left: 600px;
+  bottom: 0px;
+  width: 600px;
+  height: 600px;
+  border: 5px solid #00818a;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("img/thequeen.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.animeC {
+  position: relative;
+  left: 600px;
+  bottom: 1240px;
+  width: 700px;
+  height: 600px;
+  border: 5px solid #e8f044;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("img/dancing.jpg");
+  background-position: center;
+  background-size: 99% 99%;
+
+}
+
+.animeD {
+  position: relative;
+  left: 100px;
+  bottom: 1230px;
+  width: 450px;
+  height: 600px;
+  border: 5px solid #dc2ade;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("img/motherethiopia.jpg");
+  background-position: center;
+  background-size: 99% 99%;
+}

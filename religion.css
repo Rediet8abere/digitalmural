@@ -1,0 +1,101 @@
+body, html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Trade Winds';
+  background-image: url("img/lorateafewerktekle.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.jumbotron {
+    padding: 5em inherit;
+    height: 650px;
+    background-image: url("img/lalibela.jpg");
+    background-position: center;
+    background-size: 95% 98%;
+}
+
+.animeA {
+  width: 580px;
+  height: 600px;
+  border: 5px solid #ff0000;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("img/yekerestosseklet.jpg");
+  background-position: center;
+  background-size: 100% 99%;
+}
+
+.animeB {
+  position: relative;
+  left: 600px;
+  bottom: 200px;
+  width: 780px;
+  height: 600px;
+  border: 5px solid #1089ff;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("img/emebetemariyamkenelegwa.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.animeC {
+  position: relative;
+  left: 600px;
+  bottom: 1240px;
+  width: 800px;
+  height: 400px;
+  border: 5px solid #47e4bb;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("img/keberosimeta.jpg");
+  background-position: center;
+  background-size: 99% 99%;
+
+}
+
+.animeD {
+  position: relative;
+  left: 100px;
+  bottom: 1030px;
+  width: 450px;
+  height: 600px;
+  border: 5px solid #ed0cef;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("img/kidusgebriel.jpg");
+  background-position: center;
+  background-size: 99% 99%;
+}
+
+/* .animeE {
+  position: relative;
+  left: 600px;
+  bottom: 1250px;
+  width: 750px;
+  height: 400px;
+  border: 5px solid #8105d8;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("img/ethiopia-orthodox-christians-celebrate-meskel-festival-commemorating-discovery-of-christs-cross-photos.jpg");
+  background-position: center;
+  background-size: 99% 99%;
+} */
+
+/* .animeF {
+  position: relative;
+  left: 100px;
+  bottom: 1050px;
+  width: 700px;
+  height: 400px;
+  border: 5px solid green;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("img/ethiopian_church.jpg");
+  background-position: center;
+  background-size: 99% 99%;
+} */

@@ -1,0 +1,70 @@
+body, html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Trade Winds';
+  background-image: url("img/lorateafewerktekle.jpg");
+}
+
+.jumbotron {
+    padding: 5em inherit;
+    height: 650px;
+    background-image: url("img/ethivsitly.jpg");
+    background-position: center;
+    background-size: 95% 98%;
+}
+
+.animeA {
+  width: 500px;
+  height: 600px;
+  border: 5px solid green;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("img/enesetnege.jpg");
+  background-position: center;
+  background-size: 100% 99%;
+}
+
+.animeB {
+  left: 600px;
+  bottom: 0px;
+  width: 600px;
+  height: 600px;
+  border: 5px solid green;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("img/amhara-worrior-tools.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.animeC {
+  position: relative;
+  left: 600px;
+  bottom: 1240px;
+  width: 700px;
+  height: 600px;
+  border: 5px solid green;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("img/africanvictory.jpg");
+  background-position: center;
+  background-size: 99% 99%;
+
+}
+
+.animeD {
+  position: relative;
+  left: 800px;
+  bottom: 1230px;
+  width: 450px;
+  height: 600px;
+  border: 5px solid green;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("img/womenrole.jpg");
+  background-position: center;
+  background-size: 99% 99%;
+}
